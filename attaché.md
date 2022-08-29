@@ -37,7 +37,7 @@ Always wishing I grew up as a teenager during the [Crypto Wars](https://en.wikip
 root@self.me$:~ echo  "{  ha |  che  |  wha  |  tra  |  cra  } -cker"  > identity.dotFile
 ```
 
-Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dictionary/english/break") toys/tools/items that I find intriguingly entertaining. I do this for the opportunity of fixing them and thus teaching myself how/why they work. I have found that doing this fulfills my never-ending unconscious need for overcoming challenges and learning something new. It also subsequently allows me more opportuntities to apply my knowledge in creative ways through innovations or improvements. 
+Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dictionary/english/break") toys/tools/items that I find intriguingly entertaining. I do this for the opportunity of fixing them and thus teaching myself how/why they work. I have found that doing this fulfills my never-ending unconscious need for overcoming challenges and learning something new. It also subsequently allows me more opportunities to apply my knowledge in creative ways through innovations or improvements. 
 
 --- 
 
