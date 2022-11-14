@@ -173,6 +173,7 @@ Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic 
 
 | Name                                          | Date            |
 | --------------------------------------------- | --------------- |
+| ProofPoint Certified DLP Specialist           | October 2022    |
 | DFFEN/DF120                                   | June 2022       |
 | CompTIA Security+ CE                          | April 2022      |
 | Autopsy Basics and Hands On                   | May 2020        |
