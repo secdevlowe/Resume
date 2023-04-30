@@ -14,7 +14,7 @@
 > > \> [Twitter](https://twitter.com/secdevlowe)  
 > > \> [CO, USA](https://en.wikipedia.org/wiki/Colorado)
 >
-> [![ProofPoint - Insider Threat Specialist](https://images.credly.com/size/20x20/images/75eefaff-cc0f-4407-964e-dcc53f27e4d6/image.png)(https://www.credly.com/earner/earned/badge/092a3eac-5325-4d4b-97e2-bcd9c228eb73)](https://www.credly.com/badges/b66d8314-f91c-48e9-92e4-817c1aa2bc1d/public_url)
+>  [comment]: ([![ProofPoint - Insider Threat Specialist](https://images.credly.com/size/20x20/images/75eefaff-cc0f-4407-964e-dcc53f27e4d6/image.png)(https://www.credly.com/earner/earned/badge/092a3eac-5325-4d4b-97e2-bcd9c228eb73)](https://www.credly.com/badges/b66d8314-f91c-48e9-92e4-817c1aa2bc1d/public_url))
 > [![ProofPoint - Phishing Specialist](https://images.credly.com/size/20x20/images/b27bb224-c595-47c3-a2b9-a64e67ab8d59/image.png(https://www.credly.com/badges/092a3eac-5325-4d4b-97e2-bcd9c228eb73/public_url)
 > [![ProofPoint - DLP Specalist](https://images.credly.com/size/20x20/images/e4bdaf0b-7701-4eba-9e26-b109e6eadcd7/image.png)](https://www.credly.com/badges/31f8c11c-c14f-487b-b44f-ae987e7bf237/public_url)
 > [![Security+](https://images.credly.com/size/20x20/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/f1b26c7c-391b-4310-9577-cad551d178fb/public_url)
