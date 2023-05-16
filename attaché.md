@@ -12,7 +12,7 @@
 > > \> [GitLab](https://gitlab.com/secdevlowe)  
 > > \> [Keybase](https://keybase.io/secdevl0w3)  
 > > \> [Twitter](https://twitter.com/secdevlowe)  
-> > \> [CO, USA](https://en.wikipedia.org/wiki/Colorado)\
+> > \> [CO, USA](https://en.wikipedia.org/wiki/Colorado)
 >
 > [![Proofpoint - Insider Threat Specialist](https://images.credly.com/size/20x20/images/75eefaff-cc0f-4407-964e-dcc53f27e4d6/image.png)](https://www.credly.com/badges/b66d8314-f91c-48e9-92e4-817c1aa2bc1d/public_url)
 > [![Proofpoint - Proofpoint Certified Phishing Specialist 2022](https://images.credly.com/size/20x20/images/b27bb224-c595-47c3-a2b9-a64e67ab8d59/image.png)](https://www.credly.com/badges/092a3eac-5325-4d4b-97e2-bcd9c228eb73/public_url)
