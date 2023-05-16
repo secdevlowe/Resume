@@ -13,8 +13,8 @@
 > > \> [Keybase](https://keybase.io/secdevl0w3)  
 > > \> [Twitter](https://twitter.com/secdevlowe)  
 > > \> [CO, USA](https://en.wikipedia.org/wiki/Colorado)
->
 > [![Proofpoint - Insider Threat Specialist](https://images.credly.com/size/20x20/images/75eefaff-cc0f-4407-964e-dcc53f27e4d6/image.png)](https://www.credly.com/badges/b66d8314-f91c-48e9-92e4-817c1aa2bc1d/public_url)
+> [![Proofpoint - Proofpoint Certified Phishing Specialist 2022]((https://images.credly.com/size/20x20/images/b27bb224-c595-47c3-a2b9-a64e67ab8d59/image.png)](https://www.credly.com/badges/092a3eac-5325-4d4b-97e2-bcd9c228eb73/public_url)
 > [![ProofPoint - DLP Specalist](https://images.credly.com/size/20x20/images/e4bdaf0b-7701-4eba-9e26-b109e6eadcd7/image.png)](https://www.credly.com/badges/31f8c11c-c14f-487b-b44f-ae987e7bf237/public_url)
 > [![Security+](https://images.credly.com/size/20x20/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/f1b26c7c-391b-4310-9577-cad551d178fb/public_url)
 > [![OpenText Course Completion - Building an Investigation with EnCase 20](https://images.credly.com/size/20x20/images/dd70388a-16bf-475b-8d9a-d33b9a7ab6e0/Practitioner-Digital-Badge-Building_an_Investigation_with_EnCase_20-FINAL-RGB.png)](https://www.credly.com/badges/a6647529-6dcb-42c1-9958-71a74e333f07/public_url)
@@ -174,6 +174,8 @@ Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic 
 
 | Name                                          | Date            |
 | --------------------------------------------- | --------------- |
+| ProofPoint Cerified Insider Threat Specalist  | April 2023      |
+| ProofPoint Certified Phishing Speicalist      | January 2023    |
 | ProofPoint Certified DLP Specialist           | October 2022    |
 | DFFEN/DF120                                   | June 2022       |
 | CompTIA Security+ CE                          | April 2022      |
