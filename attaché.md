@@ -175,7 +175,7 @@ Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic 
 
 | Name                                          | Date            |
 | --------------------------------------------- | --------------- |
-| ProofPoint Cerified Insider Threat Specalist  | April 2023      |
+| ProofPoint Ceritfied Insider Threat Speicalist| April 2023      |
 | ProofPoint Certified Phishing Speicalist      | January 2023    |
 | ProofPoint Certified DLP Specialist           | October 2022    |
 | DFFEN/DF120                                   | June 2022       |
