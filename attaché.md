@@ -14,6 +14,8 @@
 > > \> [Twitter](https://twitter.com/secdevlowe)  
 > > \> [CO, USA](https://en.wikipedia.org/wiki/Colorado)
 >
+> [![Proofpoint - Identity Threat Specialist](https://images.credly.com/size/20x20/images/ae3eebcf-3706-41eb-b4ea-df4edb489853/image.png)](https://www.credly.com/badges/2190f2c5-9caa-4eeb-82d4-6d8f147c0dd8/public_url)
+> [![Proofpoint - AI/ML Specialist 2023](https://images.credly.com/size/20x20/images/93ccbbd1-b6ab-43ad-b485-a7dffa92f92e/image.png)](https://www.credly.com/badges/e8ea9ca5-9508-43c7-99a5-e9939852f20e/public_url)
 > [![Proofpoint - Insider Threat Specialist](https://images.credly.com/size/20x20/images/75eefaff-cc0f-4407-964e-dcc53f27e4d6/image.png)](https://www.credly.com/badges/b66d8314-f91c-48e9-92e4-817c1aa2bc1d/public_url)
 > [![Proofpoint - Proofpoint Certified Phishing Specialist 2022](https://images.credly.com/size/20x20/images/b27bb224-c595-47c3-a2b9-a64e67ab8d59/image.png)](https://www.credly.com/badges/092a3eac-5325-4d4b-97e2-bcd9c228eb73/public_url)
 > [![ProofPoint - DLP Specalist](https://images.credly.com/size/20x20/images/e4bdaf0b-7701-4eba-9e26-b109e6eadcd7/image.png)](https://www.credly.com/badges/31f8c11c-c14f-487b-b44f-ae987e7bf237/public_url)
@@ -173,24 +175,27 @@ Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic 
 
 ## certutil -store My
 
-| Name                                          | Date            |
-| --------------------------------------------- | --------------- |
-| ProofPoint Ceritfied Insider Threat Speicalist| April 2023      |
-| ProofPoint Certified Phishing Speicalist      | January 2023    |
-| ProofPoint Certified DLP Specialist           | October 2022    |
-| DFFEN/DF120                                   | June 2022       |
-| CompTIA Security+ CE                          | April 2022      |
-| Autopsy Basics and Hands On                   | May 2020        |
-| Cyber Triage Divide and Conquer Process       | November 2020   |
-| AccessData Certified Investigator             | August 2020     |
-| Building an Investigation with Encase         | August 2020     |
-| Host Intrusion & Investigation with EnCase    | July 2020       |
-| Incident Investigation with EnCase            | July 2020       |
-| Foundations in Digital Forensics with EnCase  | June 2020       |
-| Techniques of Crime Scene Investigation       | January 2017    |
-| TestOut Security Pro                          | December 2017   |
-| NSA Day of Cyber                              | March 2016      |
-| TestOut Network Pro                           | December 2015   |
-| Qualys Vulnerability Management               | July 2015       |
+| Name                                              | Date            |
+| ------------------------------------------------  | --------------- |
+| ProofPoint Certified Identity Threat Speicalist   | January 2024    |
+| ProofPoint Certified AI/ML Specialist             | Ocotber 2023    |
+| Oxygen Forensic® Detective (OFD)                  | August 2023     |
+| ProofPoint Ceritfied Insider Threat Speicalist    | April 2023      |
+| ProofPoint Certified Phishing Speicalist          | January 2023    |
+| ProofPoint Certified DLP Specialist               | October 2022    |
+| DFFEN/DF120                                       | June 2022       |
+| CompTIA Security+ CE                              | April 2022      |
+| Autopsy Basics and Hands On                       | May 2020        |
+| Cyber Triage Divide and Conquer Process           | November 2020   |
+| AccessData Certified Investigator                 | August 2020     |
+| Building an Investigation with Encase             | August 2020     |
+| Host Intrusion & Investigation with EnCase        | July 2020       |
+| Incident Investigation with EnCase                | July 2020       |
+| Foundations in Digital Forensics with EnCase      | June 2020       |
+| Techniques of Crime Scene Investigation           | January 2017    |
+| TestOut Security Pro                              | December 2017   |
+| NSA Day of Cyber                                  | March 2016      |
+| TestOut Network Pro                               | December 2015   |
+| Qualys Vulnerability Management                   | July 2015       |
 
 ---
