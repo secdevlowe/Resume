@@ -79,7 +79,7 @@ Operated as a Threat Research Analyst for Webroot, an OpenText Company, on their
 
 Operated as member of the consumer support team for Webroot. Took technical consumer calls and assisted end-users with general issues/questions, escalated to another team when necessary. Identified and aided in the creation and documentation of software bugs. Consistently highest completed ticket count, low call time, and very high customer satisfaction.
 
-### Student Information Technology Security Agent | [University of Northern Colorado](https://www.unco.edu)
+### Information Technology Security Agent | [University of Northern Colorado](https://www.unco.edu)
 
 ##### December 2014 - Febuary 2018
 
