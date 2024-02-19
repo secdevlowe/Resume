@@ -50,7 +50,7 @@ Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dict
 
 ## doskey /history
 
-### Threat Intelligence Analyst I | [Ball Aerospace](https://www.ball.com/aerospace/about-aerospace)
+### Threat Intelligence Analyst I | [Ball Aerospace (as of 2024-02-16 now Space & Mission Systems (S&MS) under BAE Systems Inc.](https://www.ball.com/aerospace/about-aerospace)
 
 ###### September 2021 - Present
 
