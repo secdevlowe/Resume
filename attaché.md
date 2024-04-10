@@ -61,7 +61,8 @@ Currently employed as member of the Data Protection Team under the Security & Mi
 - Developed software tools, automation solutions, analytical dashboards, functional workspaces, and frequently collaborated across various teams/departments (Cybersecurity Operations, Network, Solutions Desk, etc.) to create/complete projects related to all things infosec.
 - Supported DFIR efforts that assisted investigation efforts alongside the Threat Intelligence, Counter Intelligence, Insider Threat, Cyber, Supply Chain, Human Resources, Ethics and Physical Security teams.
 - Provided feedback and recommendations on gaps, best practices, and controls that are appropriate to mitigate found vulnerabilities and threats – Windows Baselining, Browser Extension Control,  CVE-2022-35412
-- Developed, implemented, and maintained a malware analysis/reverse engineering lab environment
+- Proposed and documented security improvements including malware analysis/reverse engineering lab environment and other related/relevant enterprise wide controls/tools to improve security posture
+- Monitored and protected the egress/movement of documents marked with Controlled Unclassified Information (CUI), International Traffic in Arms Regulations (ITAR), Payment Card Information (PCI), Protected Health  Information (PHI), Personal Identifiable Information (PII), Proprietary/Not For Export, and other related data marking/classification categories
 
 ### Threat Research Analyst | [OpenText](https://www.opentext.com)
 
