@@ -141,9 +141,9 @@ Static and dynamic malware analysis and behavior analysis experience.
 ### System Administration
 - Virtual Machine Administration: VMware, Proxmox, VirtualBox, administration experience.
 - Developed PowerShell scripts for automating hardware and software duties/troubleshooting.
-- Database maintaince, backups, performance, and efficiency testing.
+- Database maintenance, backups, performance, and efficiency testing.
 - Installation & Patching/Change Management familiarity.
-- Piviotal desktop and helpdesk support effort experience.
+- Pivotal desktop and helpdesk support effort experience.
 
 ---
 
