@@ -177,28 +177,29 @@ Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic 
 
 ## certutil -store My
 
-| Name                                              | Date            |
-| ------------------------------------------------  | --------------- |
-| Cyber Triage Investigating Insider Threats        | Febuary 2024    |
-| ProofPoint Certified Identity Threat Specialist   | January 2024    |
-| ProofPoint Certified AI/ML Specialist             | Ocotber 2023    |
-| Oxygen Forensic® Detective (OFD)                  | August 2023     |
-| ProofPoint Ceritfied Insider Threat Specialist    | April 2023      |
-| ProofPoint Certified Phishing Specialist          | January 2023    |
-| ProofPoint Certified DLP Specialist               | October 2022    |
-| DFFEN/DF120                                       | June 2022       |
-| CompTIA Security+ CE                              | April 2022      |
-| Autopsy Basics and Hands On                       | May 2020        |
-| Cyber Triage Divide and Conquer Process           | November 2020   |
-| AccessData Certified Investigator                 | August 2020     |
-| Building an Investigation with Encase             | August 2020     |
-| Host Intrusion & Investigation with EnCase        | July 2020       |
-| Incident Investigation with EnCase                | July 2020       |
-| Foundations in Digital Forensics with EnCase      | June 2020       |
-| Techniques of Crime Scene Investigation           | January 2017    |
-| TestOut Security Pro                              | December 2017   |
-| NSA Day of Cyber                                  | March 2016      |
-| TestOut Network Pro                               | December 2015   |
-| Qualys Vulnerability Management                   | July 2015       |
+| Name                                                 | Date            |
+| ---------------------------------------------------  | --------------- |
+| Proofpoint Certified Email Authentication Specialist | April 2024   |
+| Cyber Triage Investigating Insider Threats           | Febuary 2024    |
+| ProofPoint Certified Identity Threat Specialist      | January 2024    |
+| ProofPoint Certified AI/ML Specialist                | Ocotber 2023    |
+| Oxygen Forensic® Detective (OFD)                     | August 2023     |
+| ProofPoint Ceritfied Insider Threat Specialist       | April 2023      |
+| ProofPoint Certified Phishing Specialist             | January 2023    |
+| ProofPoint Certified DLP Specialist                  | October 2022    |
+| DFFEN/DF120                                          | June 2022       |
+| CompTIA Security+ CE                                 | April 2022      |
+| Autopsy Basics and Hands On                          | May 2020        |
+| Cyber Triage Divide and Conquer Process              | November 2020   |
+| AccessData Certified Investigator                    | August 2020     |
+| Building an Investigation with Encase                | August 2020     |
+| Host Intrusion & Investigation with EnCase           | July 2020       |
+| Incident Investigation with EnCase                   | July 2020       |
+| Foundations in Digital Forensics with EnCase         | June 2020       |
+| Techniques of Crime Scene Investigation              | January 2017    |
+| TestOut Security Pro                                 | December 2017   |
+| NSA Day of Cyber                                     | March 2016      |
+| TestOut Network Pro                                  | December 2015   |
+| Qualys Vulnerability Management                      | July 2015       |
 
 ---
