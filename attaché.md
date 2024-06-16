@@ -179,11 +179,11 @@ Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic 
 | Name                                              | Date            |
 | ------------------------------------------------  | --------------- |
 | Cyber Triage Investigating Insider Threats        | Febuary 2024    |
-| ProofPoint Certified Identity Threat Speicalist   | January 2024    |
+| ProofPoint Certified Identity Threat Specialist   | January 2024    |
 | ProofPoint Certified AI/ML Specialist             | Ocotber 2023    |
 | Oxygen Forensic® Detective (OFD)                  | August 2023     |
-| ProofPoint Ceritfied Insider Threat Speicalist    | April 2023      |
-| ProofPoint Certified Phishing Speicalist          | January 2023    |
+| ProofPoint Ceritfied Insider Threat Specialist    | April 2023      |
+| ProofPoint Certified Phishing Specialist          | January 2023    |
 | ProofPoint Certified DLP Specialist               | October 2022    |
 | DFFEN/DF120                                       | June 2022       |
 | CompTIA Security+ CE                              | April 2022      |
