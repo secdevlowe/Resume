@@ -14,6 +14,7 @@
 > > \> [Twitter](https://twitter.com/secdevlowe)  
 > > \> [CO, USA](https://en.wikipedia.org/wiki/Colorado)
 >
+> [![Proofpoint Certified Email Authentication Specialist](https://images.credly.com/size/20x20/images/75e2763e-9052-4cf8-bf6c-c247931e1f58/image.png)](https://www.credly.com/badges/c5e35e4d-952a-4c43-8dc1-6fe0138c5730/public_url)
 > [![Proofpoint - Identity Threat Specialist](https://images.credly.com/size/20x20/images/ae3eebcf-3706-41eb-b4ea-df4edb489853/image.png)](https://www.credly.com/badges/2190f2c5-9caa-4eeb-82d4-6d8f147c0dd8/public_url)
 > [![Proofpoint - AI/ML Specialist 2023](https://images.credly.com/size/20x20/images/93ccbbd1-b6ab-43ad-b485-a7dffa92f92e/image.png)](https://www.credly.com/badges/e8ea9ca5-9508-43c7-99a5-e9939852f20e/public_url)
 > [![Proofpoint - Insider Threat Specialist](https://images.credly.com/size/20x20/images/75eefaff-cc0f-4407-964e-dcc53f27e4d6/image.png)](https://www.credly.com/badges/b66d8314-f91c-48e9-92e4-817c1aa2bc1d/public_url)
