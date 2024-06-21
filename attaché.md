@@ -51,19 +51,19 @@ Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dict
 
 ## doskey /history
 
-### Threat Intelligence Analyst I | [Ball Aerospace (as of 2024-02-16 now BAE Systems Inc. within the Space & Mission Systems (S&MS) sector)](https://www.ball.com/aerospace/about-aerospace)
+### Threat Intelligence Analyst I | [Ball Aerospace (as of 2024-02-16 it is now BAE Systems Inc.)](https://www.ball.com/aerospace/about-aerospace)
 
 ###### September 2021 - Present
 
 *10155 Westmoor Drive, Building WMR3 Westminster CO., 80021-2568*
 
-Currently employed as member of the Data Protection Team under the Security & Mission Assurance division at Ball Aerospace. My primary responsibilities are structured around supporting the daily operations/administrative duties of the Data Loss Prevention solution: working directly with vendors, resolving DLP related tickets created by Ball employees,  configuring policies/rules/reports, and development of training, processes, and formal documentation.
+Currently employed as a Threat Intelligence Analyst I, working as the Subject Matter Expert (SME) for the Data Loss Prevention (DLP) tool within the Data Protection Team. My primary responsibilities are structured around supporting the daily operations/administrative duties of the Data Loss Prevention solution: working directly with vendor of the DLP solution, resolving DLP related problem tickets created by employees, configuring policies/rules/reports, troubleshooting the DLP agents/servers, system administration of the DLP agents/servers, development of documentation/training for the DLP tool, creation of processes, analysis/triage/reporting of significant egress events, insider threat monitoring, and handling general up-keep of the DLP tool on both classified and unclassified systems. 
 
 - Developed software tools, automation solutions, analytical dashboards, functional workspaces, and frequently collaborated across various teams/departments (Cybersecurity Operations, Network, Solutions Desk, etc.) to create/complete projects related to all things infosec.
-- Supported DFIR efforts that assisted investigation efforts alongside the Threat Intelligence, Counter Intelligence, Insider Threat, Cyber, Supply Chain, Human Resources, Ethics and Physical Security teams.
-- Provided feedback and recommendations on gaps, best practices, and controls that are appropriate to mitigate found vulnerabilities and threats – Windows Baselining, Browser Extension Control,  CVE-2022-35412
-- Proposed and documented security improvements including malware analysis/reverse engineering lab environment and other related/relevant enterprise wide controls/tools to improve security posture
-- Monitored and protected the egress/movement of documents marked with Controlled Unclassified Information (CUI), International Traffic in Arms Regulations (ITAR), Payment Card Information (PCI), Protected Health  Information (PHI), Personal Identifiable Information (PII), Proprietary/Not For Export, and other related data marking/classification categories
+- Supported DFIR efforts that assisted investigation efforts alongside the Threat Intelligence, Counter Intelligence, Insider Threat, Human Resources, Ethics, and Physical Security teams.
+- Provided feedback and recommendations on gaps, best practices, and controls that are appropriate to mitigate found vulnerabilities and threats – Windows Base-lining, Browser Extension Control, CVE-2022-35412, VMWare Horizon Hardening, PowerShell Security, etc.
+- Proposed and documented security improvements including malware analysis/reverse engineering lab environment and other related/relevant enterprise wide controls/tools to improve security posture and enterprise viability.
+- Monitored and protected the egress/movement of documents marked with Controlled Unclassified Information (CUI), International Traffic in Arms Regulations (ITAR), Payment Card Information (PCI), Protected Health  Information (PHI), Personal Identifiable Information (PII), Proprietary/Not For Export, and other related data marking/classification categories.
 
 ### Threat Research Analyst | [OpenText](https://www.opentext.com)
 
@@ -89,7 +89,8 @@ Operated as member of the consumer support team for Webroot. Took technical cons
 
 Monitored networks for security related events investigated when necessary. Installed/administered software related to network security sector. Prepared reports and documentation of security related items, vulnerability scanning, and web application pen testing. Helped develop security standards promoted awareness, IP camera network management administration installation. Performed help desk and desktop support duties as well as administered systems.
 
-- Resolved investigated spam/phishing emails reported to IT help desk
+- Resolved investigated spam/phishing emails reported
+ to IT help desk
 - Created, managed, and updated process/procedure documents
 - SolarWinds SIEM monitoring/custom alert filter creation
 - Maintained monthly web application vulnerability scanning and reporting
@@ -104,27 +105,26 @@ software/hardware
 [comment]: # (Skill)
 
 ### Comms, Tracking, & Reporting
-
 - Strong written and verbal communication skills in-person and digitally/remote.
-- Strong understanding with Office365/Libre Office, wiki & collaboration products like Confluence, Atlassian, and Trello.
+- Expert in productivity suites including but not limited to: Office365/Libre Office, wiki & collaboration products like Confluence, Atlassian, and Trello.
 - Familiar with the creation, use, and maintenance of technical reports and writings.
 - Professional, polite, informative, and comfortable with communicating complicated/technical ideas in a concise format to/with/for others.
 - Seasoned veteran in using various ticket tracking system for problem reporting and tracking - ServiceNow, Parature, & custom built ticketing systems.
 
 ### Cybersecurity, Threat Intelligence, & Information Security
+- Knowledgeable in Zero Trust, MFA, IoT Security, AI Security, DevSecOps, Extended Detection and Response (XDR), Security Orchestration, Automation, and Response (SOAR), etc.
 - Strong understanding of InfoSec attributes (CIA Triad, AAA, etc.).
 - Familiar with audit, compliance, & enforcement (HIPAA, FERPA, PCI-DSS, GDPR, CUI).
 - Understanding of common industry standards including ISO 27001, CIS controls, and NIST.
-- Experienced with DLP execution, monitoring, and reporting, via DigitalGuardian & custom tools.
+- Experienced with DLP execution, monitoring, and reporting, via Digital Guardian & custom tools.
+- SolarWinds SIEM, Splunk, pfsense, openWRT, Fortinet Fortigate Firewall, Qualys Vulnerability Management, Tripwire IDS, and Snort IDS.
 
 ### Digital Forensics & Incident Response
-- Familiarity with tools such as Autopsy, EnCase, and Webroot, for live host triage investigations.
-- Fluid in incident response lifecycle (prep, det/analysis, contain/eradicate/recover, post-incident).
+- Familiarity with tools such as Autopsy, Volatility, EnCase, Cyber Triage, and Webroot, for live host triage investigations.
+- Fluid in incident response lifecycle (preperation, detection/analysis, contain/eradicate/recover, post-incident).
 - Experience in threat hunting proactively and reactively on Microsoft Windows and UNIX machines assisted by tools including VirusTotal, Cuckoo Sandbox, Maltego CE, and YARA rules.
-- Honeypot/Honeynet deployment, management, and use.
-- Reverse engineering and malware analysis via FlareVM and other common tools including disassemblers, decompilers, fuzzers, and debuggers.
-- Network and network traffic analysis experience with SolarWinds SIEM, Qualys, Tripwire IDS, Wireshark, Fiddler, and Snort IDS.
-Static and dynamic malware analysis and behavior analysis experience.
+- Reverse engineering and malware analysis via FlareVM and other common tools including IDA, Ghidram, and other fuzzers/debuggers.
+- Network and network traffic analysis experience with Wireshark and Fiddler.
 
 ### Programming & Scripting
 - Scripting and object-oriented programming experience. Planning, design, modeling, and agile/XP development process experience.
@@ -137,12 +137,14 @@ Static and dynamic malware analysis and behavior analysis experience.
 - MITRE ATT&CK understanding and use within adversary emulation/red teaming.
 - Open Source Intelligence Techniques (OSINT).
 - Vulnerability Management, custom tools, and scripts, for risk assessment and planning (threat modeling, hunting, & research).
+- Honeypot/Honeynet deployment, management, and use.
+- Static and dynamic malware analysis and behavior analysis experience.
 
 ### System Administration
-- Virtual Machine Administration: VMware, Proxmox, VirtualBox, administration experience.
-- Developed PowerShell scripts for automating hardware and software duties/troubleshooting.
-- Database maintenance, backups, performance, and efficiency testing.
-- Installation & Patching/Change Management familiarity.
+- Virtual Machine Administration: VMware, Proxmox, VirtualBox, TrueNAS, etc.
+- Developed PowerShell scripts for automating hardware and software duties/troubleshooting/patching/updating.
+- SQL Database maintenance, backups, performance, and efficiency testing.
+- Installation & Patching/Change Management familiarity - SCCM/MECM.
 - Pivotal desktop and helpdesk support effort experience.
 
 ---
