@@ -51,27 +51,33 @@ Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dict
 
 ## doskey /history
 
-### Threat Intelligence Analyst I | [Ball Aerospace (as of 2024-02-16 it is now BAE Systems Inc.)](https://www.ball.com/aerospace/about-aerospace)
+### Threat Intelligence Analyst I | [Ball Aerospace/BAE Systems Inc.](https://www.baesystems.com)
 
 ###### September 2021 - Present
 
 *10155 Westmoor Drive, Building WMR3 Westminster CO., 80021-2568*
 
-Currently employed as a Threat Intelligence Analyst I, working as the Subject Matter Expert (SME) for the Data Loss Prevention (DLP) tool within the Data Protection Team. My primary responsibilities are structured around supporting the daily operations/administrative duties of the Data Loss Prevention solution: working directly with vendor of the DLP solution, resolving DLP related problem tickets created by employees, configuring policies/rules/reports, troubleshooting the DLP agents/servers, system administration of the DLP agents/servers, development of documentation/training for the DLP tool, creation of processes, analysis/triage/reporting of significant egress events, insider threat monitoring, and handling general up-keep of the DLP tool on both classified and unclassified systems. 
+Currently employed as a Threat Intelligence Analyst I, working as the Subject Matter Expert (SME) for the Data Loss Prevention (DLP) tool within the Data Protection Team. My primary responsibilities are structured around supporting the daily operations/administrative duties of the Data Loss Prevention solution: working directly with vendor of the DLP solution, resolving DLP related problem tickets created by employees, configuring policies/rules/reports, troubleshooting the DLP agents/servers, system administration of the DLP agents/servers, development of documentation/training for the DLP tool, creation of processes, analysis/triage/reporting of significant egress events, insider threat monitoring, and handling general up-keep of the DLP tool on both classified and unclassified systems/networks. 
 
 - Developed software tools, automation solutions, analytical dashboards, functional workspaces, and frequently collaborated across various teams/departments (Cybersecurity Operations, Network, Solutions Desk, etc.) to create/complete projects related to all things infosec.
 - Supported DFIR efforts that assisted investigation efforts alongside the Threat Intelligence, Counter Intelligence, Insider Threat, Human Resources, Ethics, and Physical Security teams.
 - Provided feedback and recommendations on gaps, best practices, and controls that are appropriate to mitigate found vulnerabilities and threats – Windows Base-lining, Browser Extension Control, CVE-2022-35412, VMWare Horizon Hardening, PowerShell Security, etc.
 - Proposed and documented security improvements including malware analysis/reverse engineering lab environment and other related/relevant enterprise wide controls/tools to improve security posture and enterprise viability.
-- Monitored and protected the egress/movement of documents marked with Controlled Unclassified Information (CUI), International Traffic in Arms Regulations (ITAR), Payment Card Information (PCI), Protected Health  Information (PHI), Personal Identifiable Information (PII), Proprietary/Not For Export, and other related data marking/classification categories.
+- Monitored and protected the egress/movement of company data marked with Controlled Unclassified Information (CUI), For Official Use Only (FOUO), International Traffic in Arms Regulations (ITAR), Payment Card Information (PCI), Protected Health  Information (PHI), Personal Identifiable Information (PII), Proprietary/Not For Export, and other related data marking/classification categories.
 
-### Threat Research Analyst | [OpenText](https://www.opentext.com)
+[comment]: # (on 2024-02-16 BAE Systems Inc. offically closed on its acquisition of Ball Aerospace)
+
+### Threat Research Analyst | [Webroot/Carbonite/OpenText](https://www.opentext.com/)
 
 ###### October 2019 - September 2021
 
 *385 Interlocken Crescent, Suite 800, Broomfield, CO. 80021*
 
 Operated as a Threat Research Analyst for Webroot, an OpenText Company, on their Threat Research Team to identify, research, and investigate, emerging malware/related cyber threats to develop automated determination rules. Performed static and dynamic malware analysis in isolated virtual environments for classifying specific characteristics of emerging malware. Identified and research new distribution methods of malicious files and the techniques for needed for their remediation via digital forensics and related skills. Queried databases to data mine for threats with proprietary and relevant industry/community tools. Ensured any issues customers have regarding malware are resolved in a quick and professional manner. Monitored and handled proprietary database alerts. Helped plan, design, program, and maintain, the new backend database before departing. 
+
+[comment]: # (On March 26, 2019, Carbonite closed its acquisition of Webroot.)
+
+[comment]: # (On December 2019 Carbonite was acquired by OpenText.)
 
 ### Frontline Engineer | [Webroot](https://www.webroot.com/)
 
@@ -100,9 +106,9 @@ software/hardware
 
 ---
 
-## net start
+[comment]: # (Skills)
 
-[comment]: # (Skill)
+## net start
 
 ### Comms, Tracking, & Reporting
 - Strong written and verbal communication skills in-person and digitally/remote.
