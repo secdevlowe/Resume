@@ -187,7 +187,7 @@ Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic 
 
 | Name                                                 | Date            |
 | ---------------------------------------------------  | --------------- |
-| Proofpoint Certified Email Authentication Specialist | April 2024      |
+| ProofPoint Certified Email Authentication Specialist | April 2024      |
 | Cyber Triage Investigating Insider Threats           | February 2024   |
 | ProofPoint Certified Identity Threat Specialist      | January 2024    |
 | ProofPoint Certified AI/ML Specialist                | October 2023    |
