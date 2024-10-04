@@ -51,7 +51,7 @@ Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dict
 
 ## doskey /history
 
-### Threat Intelligence Analyst I | [Ball Aerospace/BAE Systems Inc.](https://www.baesystems.com)
+### Threat Intelligence Analyst I/Intelligence Anst II | [Ball Aerospace/BAE Systems Inc.](https://www.baesystems.com)
 
 ###### September 2021 - Present
 
