@@ -129,8 +129,8 @@ software/hardware
 - Familiarity with tools such as Autopsy, Volatility, EnCase, Cyber Triage, and Webroot, for live host triage investigations.
 - Fluid in incident response lifecycle (preperation, detection/analysis, contain/eradicate/recover, post-incident).
 - Experience in threat hunting proactively and reactively on Microsoft Windows and UNIX machines assisted by tools including VirusTotal, Cuckoo Sandbox, Maltego CE, and YARA rules.
-- Reverse engineering and malware analysis via FlareVM and other common tools including IDA, Ghidram, and other fuzzers/debuggers.
-- Network and network traffic analysis experience with Wireshark and Fiddler.
+- Reverse engineering and malware analysis, IDA, Ghidra.
+- Network and network traffic analysis experience with WireShark and Fiddler.
 
 ### Programming & Scripting
 - Scripting and object-oriented programming experience. Planning, design, modeling, and agile/XP development process experience.
