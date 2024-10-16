@@ -2,7 +2,7 @@
 
 # Jonathan Todd Lowe
 
-## *InfoSec Professional | Cyber Engineer | Security Developer*
+## *InfoSec Professional | Cyber Engineer | Security Developer | Malwaremancer*
 
 ---
 
@@ -14,18 +14,19 @@
 > > \> [Twitter](https://twitter.com/secdevlowe)  
 > > \> [CO, USA](https://en.wikipedia.org/wiki/Colorado)
 >
-> [![Proofpoint Certified Email Authentication Specialist](https://images.credly.com/size/20x20/images/75e2763e-9052-4cf8-bf6c-c247931e1f58/image.png)](https://www.credly.com/badges/c5e35e4d-952a-4c43-8dc1-6fe0138c5730/public_url)
-> [![Proofpoint - Identity Threat Specialist](https://images.credly.com/size/20x20/images/ae3eebcf-3706-41eb-b4ea-df4edb489853/image.png)](https://www.credly.com/badges/2190f2c5-9caa-4eeb-82d4-6d8f147c0dd8/public_url)
-> [![Proofpoint - AI/ML Specialist 2023](https://images.credly.com/size/20x20/images/93ccbbd1-b6ab-43ad-b485-a7dffa92f92e/image.png)](https://www.credly.com/badges/e8ea9ca5-9508-43c7-99a5-e9939852f20e/public_url)
-> [![Proofpoint - Insider Threat Specialist](https://images.credly.com/size/20x20/images/75eefaff-cc0f-4407-964e-dcc53f27e4d6/image.png)](https://www.credly.com/badges/b66d8314-f91c-48e9-92e4-817c1aa2bc1d/public_url)
-> [![Proofpoint - Proofpoint Certified Phishing Specialist 2022](https://images.credly.com/size/20x20/images/b27bb224-c595-47c3-a2b9-a64e67ab8d59/image.png)](https://www.credly.com/badges/092a3eac-5325-4d4b-97e2-bcd9c228eb73/public_url)
-> [![ProofPoint - DLP Specalist](https://images.credly.com/size/20x20/images/e4bdaf0b-7701-4eba-9e26-b109e6eadcd7/image.png)](https://www.credly.com/badges/31f8c11c-c14f-487b-b44f-ae987e7bf237/public_url)
-> [![Security+](https://images.credly.com/size/20x20/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/f1b26c7c-391b-4310-9577-cad551d178fb/public_url)
-> [![OpenText Course Completion - Building an Investigation with EnCase 20](https://images.credly.com/size/20x20/images/dd70388a-16bf-475b-8d9a-d33b9a7ab6e0/Practitioner-Digital-Badge-Building_an_Investigation_with_EnCase_20-FINAL-RGB.png)](https://www.credly.com/badges/a6647529-6dcb-42c1-9958-71a74e333f07/public_url)
-> [![OpenText Practitioner - Incident Investigation 20](https://images.credly.com/size/20x20/images/870cf3a4-daf1-4e98-a5e7-0946c61e14df/Practitioner-Digital-Badge-Incident_Investigation_20-FINAL-RGB.png)](https://www.credly.com/badges/83de13ff-4f27-485a-95b7-a6c1848a6400/public_url)
-> [![OpenText Practitioner - Host Intrusion Methodology and Investigation 20](https://images.credly.com/size/20x20/images/702b8e7c-bf4e-45f8-ab03-d829a52f9955/Practitioner-Digital-Badge-Host_Intrusion_Methodology_and_Investigation_20-FINAL-RGB.png)](https://www.credly.com/badges/0cb172ba-a41c-43d1-9fdb-f70423cb223e/public_url)
-> [![OpenText Course Completion - Foundations in Digital Forensics with EnCase 20](https://images.credly.com/size/20x20/images/752bb590-ccbe-4838-bae0-757b8b507ad0/Practitioner-Digital-Badge-Foundations_in_Digital_Forensics_with_EnCase_20-FINAL-RGB.png)](https://www.credly.com/badges/04810309-4c28-43f5-bf76-bdab679bdc05/public_url)
-> [![Microsoft Access 2013 Advanced](https://images.credly.com/size/20x20/images/5cc3f5f6-d7b5-4005-9b94-2ef3295670a4/Pearson_MyITLab2013.png)](https://www.credly.com/badges/012e1be5-1559-4400-b7fd-ba8a3172bf49/public_url)
+> [![GIAC Security Essentials Certification (GSEC)](https://images.credly.com/size/110x110/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png)](https://www.credly.com/badges/3183cb88-4c41-426d-87a5-a4b86e47edb2/public_url)
+> [![Proofpoint Certified Email Authentication Specialist](https://images.credly.com/size/110x110/images/75e2763e-9052-4cf8-bf6c-c247931e1f58/image.png)](https://www.credly.com/badges/c5e35e4d-952a-4c43-8dc1-6fe0138c5730/public_url)
+> [![Proofpoint - Identity Threat Specialist](https://images.credly.com/size/110x110/images/ae3eebcf-3706-41eb-b4ea-df4edb489853/image.png)](https://www.credly.com/badges/2190f2c5-9caa-4eeb-82d4-6d8f147c0dd8/public_url)
+> [![Proofpoint - AI/ML Specialist 2023](https://images.credly.com/size/110x110/images/93ccbbd1-b6ab-43ad-b485-a7dffa92f92e/image.png)](https://www.credly.com/badges/e8ea9ca5-9508-43c7-99a5-e9939852f20e/public_url)
+> [![Proofpoint - Insider Threat Specialist](https://images.credly.com/size/105x105/images/75eefaff-cc0f-4407-964e-dcc53f27e4d6/image.png)](https://www.credly.com/badges/b66d8314-f91c-48e9-92e4-817c1aa2bc1d/public_url)
+> [![Proofpoint - Proofpoint Certified Phishing Specialist 2022](https://images.credly.com/size/110x110/images/b27bb224-c595-47c3-a2b9-a64e67ab8d59/image.png)](https://www.credly.com/badges/092a3eac-5325-4d4b-97e2-bcd9c228eb73/public_url)
+> [![ProofPoint - DLP Specalist](https://images.credly.com/size/110x110/images/e4bdaf0b-7701-4eba-9e26-b109e6eadcd7/image.png)](https://www.credly.com/badges/31f8c11c-c14f-487b-b44f-ae987e7bf237/public_url)
+> [![Security+](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/f1b26c7c-391b-4310-9577-cad551d178fb/public_url)
+> [![OpenText Course Completion - Building an Investigation with EnCase 20](https://images.credly.com/size/110x110/images/dd70388a-16bf-475b-8d9a-d33b9a7ab6e0/Practitioner-Digital-Badge-Building_an_Investigation_with_EnCase_20-FINAL-RGB.png)](https://www.credly.com/badges/a6647529-6dcb-42c1-9958-71a74e333f07/public_url)
+> [![OpenText Practitioner - Incident Investigation 20](https://images.credly.com/size/110x110/images/870cf3a4-daf1-4e98-a5e7-0946c61e14df/Practitioner-Digital-Badge-Incident_Investigation_20-FINAL-RGB.png)](https://www.credly.com/badges/83de13ff-4f27-485a-95b7-a6c1848a6400/public_url)
+> [![OpenText Practitioner - Host Intrusion Methodology and Investigation 20](https://images.credly.com/size/110x110/images/702b8e7c-bf4e-45f8-ab03-d829a52f9955/Practitioner-Digital-Badge-Host_Intrusion_Methodology_and_Investigation_20-FINAL-RGB.png)](https://www.credly.com/badges/0cb172ba-a41c-43d1-9fdb-f70423cb223e/public_url)
+> [![OpenText Course Completion - Foundations in Digital Forensics with EnCase 20](https://images.credly.com/size/110x110/images/752bb590-ccbe-4838-bae0-757b8b507ad0/Practitioner-Digital-Badge-Foundations_in_Digital_Forensics_with_EnCase_20-FINAL-RGB.png)](https://www.credly.com/badges/04810309-4c28-43f5-bf76-bdab679bdc05/public_url)
+> [![Microsoft Access 2013 Advanced](https://images.credly.com/size/110x110/images/5cc3f5f6-d7b5-4005-9b94-2ef3295670a4/Pearson_MyITLab2013.png)](https://www.credly.com/badges/012e1be5-1559-4400-b7fd-ba8a3172bf49/public_url)
 
 ---
 
@@ -40,7 +41,7 @@ root@self.me$:~ echo "Hey there. You can call me Jonny." > salutations.txt
 Always wishing I grew up as a teenager during the [Crypto Wars](https://en.wikipedia.org/wiki/Crypto_Wars), I am a guy in his late 20s who is overly enthusiastic about all things cyber/tech/infosec/electronics… or generally speaking “computers”. My professional career and personal hobbies allow my life to be filled with what I am passionate about. From playing around on my Dell PowerEdge r710 home lab running Proxmox, to working with like minded people to plan, develop, document, and execute technology based projects across an enterprise. Anything inbetween that that typically involve one or more of the following: [poi/glowstringing](https://en.m.wikipedia.org/wiki/Poi_(performance_art)), video games, mathematics, science, criminal justice, philosophy, structure, [love](https://en.m.wikipedia.org/wiki/Love), happiness, empathy, [learning](https://en.m.wikipedia.org/wiki/Learning), teaching, sharing, integrity, [respect](https://en.m.wikipedia.org/wiki/Respect), loyalty, [perspective](https://en.m.wikipedia.org/wiki/Perspective), relaxing, and/or being human. 
 
 ```sh
-root@self.me$:~ echo  "{  ha |  che  |  tra  |  cra  } -cker"  > identity.dotFile
+root@self.me$:~ echo "{   hack  |  check  |  track  |  crack  |  rigg  |  deck  |  technomanc  |  necomacnc  |  cod  |  netrunn  |  gam  |  play  |  lead  |  help  |  nix  |  ric  |  research  |  hunt  |  revers   }  -er"  > identity.dotFile
 ```
 
 Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dictionary/english/break") toys/tools/items that I find intriguingly entertaining. I do this for the opportunity of fixing them and thus teaching myself how/why they work. I have found that doing this fulfills my never-ending unconscious need for overcoming challenges and learning something new. It also subsequently allows me more opportunities to apply my knowledge in creative ways through innovations or improvements. 
@@ -57,13 +58,15 @@ Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dict
 
 *10155 Westmoor Drive, Building WMR3 Westminster CO., 80021-2568*
 
-Currently employed as a Threat Intelligence Analyst I, working as the Subject Matter Expert (SME) for the Data Loss Prevention (DLP) tool within the Data Protection Team. My primary responsibilities are structured around supporting the daily operations/administrative duties of the Data Loss Prevention solution: working directly with vendor of the DLP solution, resolving DLP related problem tickets created by employees, configuring policies/rules/reports, troubleshooting the DLP agents/servers, system administration of the DLP agents/servers, development of documentation/training for the DLP tool, creation of processes, analysis/triage/reporting of significant egress events, insider threat monitoring, and handling general up-keep of the DLP tool on both classified and unclassified systems/networks. 
+Currently employed as a Intelligence Anst II, working as the Subject Matter Expert (SME) for the Data Loss Prevention (DLP) tool. I work within the Data Protection Team for the Enterprise Assurance department of the Space & Mission Systems Sector for BAE Systems Inc. My primary responsibilities are structured around supporting the daily operations/administrative duties of the Data Loss Prevention solution: working directly with vendor of the DLP solution, assisting end users/customers of the DLP solution,  resolving DLP related problem tickets, configuring policies/rules/reports/classifications, troubleshooting the DLP agents/servers, system administration of the DLP agents/servers, development of documentation/training for the DLP tool, creation of processes, analysis/triage/reporting of significant egress events, insider threat monitoring, and handling general up-keep of the DLP tool. These duties are preformed on both classified and unclassified systems & netwoks. Additionally I support the Security Investigations & Forensics Team (SIFT) with internal investigations of users/technical assests through the creation/use of built-in-house scripts/programs and through tools such as Microsoft Purview, CrowdStrike Falcon, and Splunk.
 
 - Developed software tools, automation solutions, analytical dashboards, functional workspaces, and frequently collaborated across various teams/departments (Cybersecurity Operations, Network, Solutions Desk, etc.) to create/complete projects related to all things infosec.
 - Supported DFIR efforts that assisted investigation efforts alongside the Threat Intelligence, Counter Intelligence, Insider Threat, Human Resources, Ethics, and Physical Security teams.
 - Provided feedback and recommendations on gaps, best practices, and controls that are appropriate to mitigate found vulnerabilities and threats – Windows Base-lining, Browser Extension Control, CVE-2022-35412, VMWare Horizon Hardening, PowerShell Security, etc.
 - Proposed and documented security improvements including malware analysis/reverse engineering lab environment and other related/relevant enterprise wide controls/tools to improve security posture and enterprise viability.
 - Monitored and protected the egress/movement of company data marked with Controlled Unclassified Information (CUI), For Official Use Only (FOUO), International Traffic in Arms Regulations (ITAR), Payment Card Information (PCI), Protected Health  Information (PHI), Personal Identifiable Information (PII), Proprietary/Not For Export, and other related data marking/classification categories.
+
+[comment]: # (On 2024-09-30 Job Title Changed to Intelligence Anst II from Threat Intelligence Analyst I due to the acquisition of Ball Aerospace via BAE Systems Inc.)
 
 [comment]: # (on 2024-02-16 BAE Systems Inc. offically closed on its acquisition of Ball Aerospace)
 
@@ -187,6 +190,7 @@ Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic 
 
 | Name                                                 | Date            |
 | ---------------------------------------------------  | --------------- |
+| GIAC Security Essentials Certification (GSEC)        | October 2024    |
 | ProofPoint Certified Email Authentication Specialist | April 2024      |
 | Cyber Triage Investigating Insider Threats           | February 2024   |
 | ProofPoint Certified Identity Threat Specialist      | January 2024    |
@@ -211,3 +215,6 @@ Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic 
 | Qualys Vulnerability Management                      | July 2015       |
 
 ---
+
+
+###### <sub>STX___␡␡␡___␀💾␀🖳␀⌨️␀💀␀♠️🔒␀🏴‍☠️␀☕␀🪫␀⏏️␀👓␀🥸␀⚡␀🤖␀⚙️␀🔋␀⚔️␀🌠␀💻␀🔩␀🦴␀🖱️␀🐳␀🕹️␀🪐␀🪆␀📠␀🖪␀📀␀🩻␀🗝️␀💡␀🖬␀📜␀💼␀🕵️␀📻␀🀄␀🖁␀📶␀🧠␀🦴␀🗡️🦾␀🎧␀☣️␀💫␀📱␀🔌␀⏺️␇🎚️␀🔎␀🎲␀🧩␀🧟␀␦␀🖥️␀🕲␀🧑‍💼␀⛓️‍💥␀🌃␀📼␀🎴␀♦️␀♓␀␢␀☄️␀🎃␀♥️␀📧␀📎␀␣␀📟␀🎓␀🖴␀🛰️␀⚸␀🌠␀🃏␀⏯️␀🧛␀💉␀⏹️␀☢️␀💭␀♣️␀🦹␀🦿␀🔐␀🎛️␀🔍␀🧲␀🏰␀🧙‍♂️␀💽␀🔑␀🖨️␀👾␀🖲️␀🌐␀👻␀🧰␀🕸️␀📡␀💿␀🔗␀🥷␀🖫␀🕴️␀☠️␀㊙️␀🛠️␀___␡␡␡___EOT</sub>
