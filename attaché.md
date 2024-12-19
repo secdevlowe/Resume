@@ -180,7 +180,7 @@ Bachelor of Science in Software Engineering with Criminal Justice minor. Obtaine
 
 High School Diploma
 
-Graduated with 4.0 GPA on High Honnor Roll. Lettered every year for my academic grades. Volunteered as a Teacher's Aide from November 2009 to April 2010 in place of having a free block. Raised money for breast cancer research as my senior project.
+Graduated with 4.0 GPA on High Honor Roll. Lettered every year for my academic grades. Volunteered as a Teacher's Aide from November 2009 to April 2010 in place of having a free block. Raised money for breast cancer research as my senior project.
 
 ---
 
