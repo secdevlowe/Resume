@@ -84,7 +84,7 @@ Operated as a Threat Research Analyst for Webroot, an OpenText Company, on their
 
 ### Frontline Engineer | [Webroot](https://www.webroot.com/)
 
-##### April 2018 - Ocotober 2019
+##### April 2018 - October 2019
 
 *385 Interlocken Crescent, Suite 800, Broomfield, CO. 80021*
 
@@ -92,7 +92,7 @@ Operated as member of the consumer support team for Webroot. Took technical cons
 
 ### Information Technology Security Agent | [University of Northern Colorado](https://www.unco.edu)
 
-##### December 2014 - Febuary 2018
+##### December 2014 - February 2018
 
 *501 20 St., Greeley, CO, 80639*
 
