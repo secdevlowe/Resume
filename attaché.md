@@ -38,7 +38,7 @@
 root@self.me$:~ echo "Hey there. You can call me Jonny." > salutations.txt
 ```
 
-Always wishing I grew up as a teenager during the [Crypto Wars](https://en.wikipedia.org/wiki/Crypto_Wars), I am a guy in his late 20s who is overly enthusiastic about all things cyber/tech/infosec/electronics… or generally speaking “computers”. My professional career and personal hobbies allow my life to be filled with what I am passionate about. From playing around on my Dell PowerEdge r710 home lab running Proxmox, to working with like minded people to plan, develop, document, and execute technology based projects across an enterprise. Anything inbetween that that typically involve one or more of the following: [poi/glowstringing](https://en.m.wikipedia.org/wiki/Poi_(performance_art)), video games, mathematics, science, criminal justice, philosophy, structure, [love](https://en.m.wikipedia.org/wiki/Love), happiness, empathy, [learning](https://en.m.wikipedia.org/wiki/Learning), teaching, sharing, integrity, [respect](https://en.m.wikipedia.org/wiki/Respect), loyalty, [perspective](https://en.m.wikipedia.org/wiki/Perspective), relaxing, and/or being human. 
+Always wishing I grew up as a teenager during the [Crypto Wars](https://en.wikipedia.org/wiki/Crypto_Wars), I am a guy in his early 30s who is overly enthusiastic about all things cyber/tech/infosec/electronics… or generally speaking “computers”. My professional career and personal hobbies allow my life to be filled with what I am passionate about. From playing around on my Dell PowerEdge r710 home lab running Proxmox, to working with like minded people to plan, develop, document, and execute technology based projects across an enterprise. Anything inbetween that that typically involve one or more of the following: [poi/glowstringing](https://en.m.wikipedia.org/wiki/Poi_(performance_art)), video games, mathematics, science, criminal justice, philosophy, structure, [love](https://en.m.wikipedia.org/wiki/Love), happiness, empathy, [learning](https://en.m.wikipedia.org/wiki/Learning), teaching, sharing, integrity, [respect](https://en.m.wikipedia.org/wiki/Respect), loyalty, [perspective](https://en.m.wikipedia.org/wiki/Perspective), relaxing, and/or being human. 
 
 ```sh
 root@self.me$:~ echo "{   hack  |  check  |  track  |  crack  |  rigg  |  deck  |  technomanc  |  necomacnc  |  cod  |  netrunn  |  gam  |  play  |  lead  |  help  |  nix  |  ric  |  research  |  hunt  |  revers   }  -er"  > identity.dotFile
@@ -51,6 +51,14 @@ Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dict
 [comment]: # (Work Experience)
 
 ## doskey /history
+
+### Technical Customer Support Specialist Level 2 | [Intrado](https://www.intrado.com)
+
+###### August 2025 - November 2025
+
+*1601 Dry Creek Dr, Ste 250 Longmont, CO 80503*
+
+Provided advanced technical support for enterprise-level communication and collaboration solutions, ensuring timely resolution of complex issues for global clients. Diagnosed and troubleshot hardware, software, and network-related problems across virtual and physical server environments. Collaborated with engineering and Tier 3 teams to escalate and resolve critical incidents, minimizing downtime and ensuring service continuity. Utilized remote diagnostic tools and system logs to identify root causes, implement fixes, and document solutions for knowledge base improvement. Delivered exceptional customer service by maintaining clear communication, setting expectations, and providing detailed status updates throughout the support lifecycle. Assisted with system maintenance, configuration changes, and post-incident analysis to improve reliability and prevent recurrence. Adhered to ITIL best practices for incident, problem, and change management processes.
 
 ### Threat Intelligence Analyst I/Intelligence Anst II | [Ball Aerospace/BAE Systems Inc.](https://www.baesystems.com)
 
@@ -218,3 +226,4 @@ Graduated with 4.0 GPA on High Honor Roll. Lettered every year for my academic g
 
 
 ###### <sub>STX___␡␡␡___␀💾␀🖳␀⌨️␀💀␀♠️🔒␀🏴‍☠️␀☕␀🪫␀⏏️␀👓␀🥸␀⚡␀🤖␀⚙️␀🔋␀⚔️␀🌠␀💻␀🔩␀🦴␀🖱️␀🐳␀🕹️␀🪐␀🪆␀📠␀🖪␀📀␀🩻␀🗝️␀💡␀🖬␀📜␀💼␀🕵️␀📻␀🀄␀🖁␀📶␀🧠␀🦴␀🗡️🦾␀🎧␀☣️␀💫␀📱␀🔌␀⏺️␇🎚️␀🔎␀🎲␀🧩␀🧟␀␦␀🖥️␀🕲␀🧑‍💼␀⛓️‍💥␀🌃␀📼␀🎴␀♦️␀♓␀␢␀☄️␀🎃␀♥️␀📧␀📎␀␣␀📟␀🎓␀🖴␀🛰️␀⚸␀🌠␀🃏␀⏯️␀🧛␀💉␀⏹️␀☢️␀💭␀♣️␀🦹␀🦿␀🔐␀🎛️␀🔍␀🧲␀🏰␀🧙‍♂️␀💽␀🔑␀🖨️␀👾␀🖲️␀🌐␀👻␀🧰␀🕸️␀📡␀💿␀🔗␀🥷␀🖫␀🕴️␀☠️␀㊙️␀🛠️␀___␡␡␡___EOT</sub>
+
