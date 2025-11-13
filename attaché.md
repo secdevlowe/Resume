@@ -21,7 +21,7 @@
 > [![Proofpoint - Insider Threat Specialist](https://images.credly.com/size/105x105/images/75eefaff-cc0f-4407-964e-dcc53f27e4d6/image.png)](https://www.credly.com/badges/b66d8314-f91c-48e9-92e4-817c1aa2bc1d/public_url)
 > [![Proofpoint - Proofpoint Certified Phishing Specialist 2022](https://images.credly.com/size/110x110/images/b27bb224-c595-47c3-a2b9-a64e67ab8d59/image.png)](https://www.credly.com/badges/092a3eac-5325-4d4b-97e2-bcd9c228eb73/public_url)
 > [![ProofPoint - DLP Specalist](https://images.credly.com/size/110x110/images/e4bdaf0b-7701-4eba-9e26-b109e6eadcd7/image.png)](https://www.credly.com/badges/31f8c11c-c14f-487b-b44f-ae987e7bf237/public_url)
-> [![Security+](https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/f1b26c7c-391b-4310-9577-cad551d178fb/public_url)
+> [![Security+](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/f1b26c7c-391b-4310-9577-cad551d178fb/public_url)
 > [![OpenText Course Completion - Building an Investigation with EnCase 20](https://images.credly.com/size/110x110/images/dd70388a-16bf-475b-8d9a-d33b9a7ab6e0/Practitioner-Digital-Badge-Building_an_Investigation_with_EnCase_20-FINAL-RGB.png)](https://www.credly.com/badges/a6647529-6dcb-42c1-9958-71a74e333f07/public_url)
 > [![OpenText Practitioner - Incident Investigation 20](https://images.credly.com/size/110x110/images/870cf3a4-daf1-4e98-a5e7-0946c61e14df/Practitioner-Digital-Badge-Incident_Investigation_20-FINAL-RGB.png)](https://www.credly.com/badges/83de13ff-4f27-485a-95b7-a6c1848a6400/public_url)
 > [![OpenText Practitioner - Host Intrusion Methodology and Investigation 20](https://images.credly.com/size/110x110/images/702b8e7c-bf4e-45f8-ab03-d829a52f9955/Practitioner-Digital-Badge-Host_Intrusion_Methodology_and_Investigation_20-FINAL-RGB.png)](https://www.credly.com/badges/0cb172ba-a41c-43d1-9fdb-f70423cb223e/public_url)
@@ -226,5 +226,6 @@ Graduated with 4.0 GPA on High Honor Roll. Lettered every year for my academic g
 
 
 ###### <sub>STX___␡␡␡___␀💾␀🖳␀⌨️␀💀␀♠️🔒␀🏴‍☠️␀☕␀🪫␀⏏️␀👓␀🥸␀⚡␀🤖␀⚙️␀🔋␀⚔️␀🌠␀💻␀🔩␀🦴␀🖱️␀🐳␀🕹️␀🪐␀🪆␀📠␀🖪␀📀␀🩻␀🗝️␀💡␀🖬␀📜␀💼␀🕵️␀📻␀🀄␀🖁␀📶␀🧠␀🦴␀🗡️🦾␀🎧␀☣️␀💫␀📱␀🔌␀⏺️␇🎚️␀🔎␀🎲␀🧩␀🧟␀␦␀🖥️␀🕲␀🧑‍💼␀⛓️‍💥␀🌃␀📼␀🎴␀♦️␀♓␀␢␀☄️␀🎃␀♥️␀📧␀📎␀␣␀📟␀🎓␀🖴␀🛰️␀⚸␀🌠␀🃏␀⏯️␀🧛␀💉␀⏹️␀☢️␀💭␀♣️␀🦹␀🦿␀🔐␀🎛️␀🔍␀🧲␀🏰␀🧙‍♂️␀💽␀🔑␀🖨️␀👾␀🖲️␀🌐␀👻␀🧰␀🕸️␀📡␀💿␀🔗␀🥷␀🖫␀🕴️␀☠️␀㊙️␀🛠️␀___␡␡␡___EOT</sub>
+
 
 
