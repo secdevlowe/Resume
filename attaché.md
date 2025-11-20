@@ -52,7 +52,7 @@ Since infancy I have been [disassembling]("https://dictionary.cambridge.org/dict
 
 ## doskey /history
 
-### Data Loss Prevention (DLP) Administrator | [RTX Corporation | Collins Aerospace, Pratt & Whitney, Raytheon](https://www.rtx.com/)
+### Data Loss Prevention (DLP) Administrator | [RTX Corporation (Collins Aerospace, Pratt & Whitney, Raytheon)](https://www.rtx.com/)
 
 ###### November 2025 - Present
 
@@ -234,6 +234,7 @@ Graduated with 4.0 GPA on High Honor Roll. Lettered every year for my academic g
 
 
 ###### <sub>STX___␡␡␡___␀💾␀🖳␀⌨️␀💀␀♠️🔒␀🏴‍☠️␀☕␀🪫␀⏏️␀👓␀🥸␀⚡␀🤖␀⚙️␀🔋␀⚔️␀🌠␀💻␀🔩␀🦴␀🖱️␀🐳␀🕹️␀🪐␀🪆␀📠␀🖪␀📀␀🩻␀🗝️␀💡␀🖬␀📜␀💼␀🕵️␀📻␀🀄␀🖁␀📶␀🧠␀🦴␀🗡️🦾␀🎧␀☣️␀💫␀📱␀🔌␀⏺️␇🎚️␀🔎␀🎲␀🧩␀🧟␀␦␀🖥️␀🕲␀🧑‍💼␀⛓️‍💥␀🌃␀📼␀🎴␀♦️␀♓␀␢␀☄️␀🎃␀♥️␀📧␀📎␀␣␀📟␀🎓␀🖴␀🛰️␀⚸␀🌠␀🃏␀⏯️␀🧛␀💉␀⏹️␀☢️␀💭␀♣️␀🦹␀🦿␀🔐␀🎛️␀🔍␀🧲␀🏰␀🧙‍♂️␀💽␀🔑␀🖨️␀👾␀🖲️␀🌐␀👻␀🧰␀🕸️␀📡␀💿␀🔗␀🥷␀🖫␀🕴️␀☠️␀㊙️␀🛠️␀___␡␡␡___EOT</sub>
+
 
 
 
